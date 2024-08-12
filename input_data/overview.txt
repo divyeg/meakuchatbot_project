@@ -1,0 +1,38 @@
+Overview
+HackerEarth is an online technical-recruitment tool that enables you to automate your hiring process to select the best fit for your team.
+Using HackerEarth Assessment, you can create tests to evaluate candidates. By automating your recruitment process, HackerEarth Assessment saves the time and effort required to go through hundreds of resumes manually. It allows you to assess and shortlist a targeted pool of candidates who suit your requirements.
+This article gives you an in-depth understanding of HackerEarth Assessment and its benefits. By using HackerEarth, you can streamline the recruitment process and find the perfect candidate for your team.
+Why should you use HackerEarth Assessment?
+HackerEarth provides you with industry-leading features which are as follows:
+1. HackerEarth's rich library
+HackerEarth's library is a repository of pre-built questions that can be used to create customized tests for assessing candidates. The library contains a vast collection of questions that cover various topics across difficulty levels. The questions are designed and tested by subject matter experts and are frequently updated to ensure that they are relevant and up to industry standards.
+You can also filter the questions by difficulty level, skills, and other criteria to create a well-balanced test that accurately evaluates a candidate's skills.
+In addition to the pre-built questions, the library also includes coding challenges that can be used to evaluate a candidate's coding skills in a real-world scenario. These challenges are designed to simulate the challenges that developers face in their day-to-day work, giving you a better idea of a candidate's ability to handle real-world situations.
+Overall, HackerEarth's rich library is a valuable resource for recruiters and hiring managers who are looking to create customized tests that accurately assess a candidate's skills. With its vast collection of pre-built questions and coding challenges, the library can help you streamline the recruitment process and identify the best candidates for your organization.
+
+2. Increase the number of candidates assessed
+HackerEarth Assessment is designed to help you assess a large pool of candidates in a concise span of time. This means that you can quickly filter through a high volume of resumes and identify the best fit for your team. With HackerEarth Assessment, you can increase the number of candidates you assess, which can help you find the perfect candidate for your organization. This is particularly useful when you have multiple positions to fill or when you are looking to scale your team quickly. By automating the recruitment process, HackerEarth Assessment saves you time and effort and enables you to assess more candidates efficiently. This not only helps you find the right candidate faster but also ensures that you don't miss out on any potential hires.
+3. Diverse platform
+HackerEarth Assessment is a versatile platform that allows you to assess candidates in over 38 different programming languages. This feature makes it easier for you to find candidates with the specific technical skills that your organization needs. The diverse platform also includes a range of question types and difficulty levels, enabling you to create customized tests that accurately assess a candidate's skills. Additionally, you can upload your own questions to create a tailor-made test that meets your specific requirements. The diverse platform ensures that candidates are evaluated based on their technical skills, making it easier for you to identify the right fit for your team.
+4. Advanced proctoring settings for assessments
+Advanced proctoring settings for assessments ensure that the tests are conducted in a fair and unbiased manner. HackerEarth Assessment provides best-in-class proctoring mechanisms to prevent cheating and ensure the integrity of the tests. These mechanisms include features such as webcam monitoring, screen recording, and keystroke tracking.
+Webcam monitoring allows you to monitor the candidate's actions during the test. This ensures that the candidate is not looking at external resources, talking to someone else, or using any other unfair means during the test. The screen recording feature captures the candidate's screen activity during the test. This helps you identify any suspicious activity or unauthorized software usage. Keystroke tracking records the keystrokes made by the candidate during the test. This feature helps you identify any suspicious activity or unauthorized software usage.
+Overall, advanced proctoring settings ensure that the tests are conducted in a fair and unbiased manner, enabling you to identify the best fit for your team.
+5. Reports and analytics
+HackerEarth Assessment also offers detailed reports and analytics. These reports give you an insight into each candidate's performance based on various test metrics, including accuracy, speed, and efficiency. You can use this data to identify the strengths and weaknesses of each candidate and make informed hiring decisions.
+Moreover, HackerEarth Assessment provides smart analytics around usage and recruitment activity to help you make necessary decisions for future recruitment needs. This includes information on the number of tests taken, test completion rates, and candidate performance trends. With this data, you can easily track the effectiveness of your recruitment process and identify areas for improvement.
+6. Dedicated account manager and product specialist available 24/7
+HackerEarth Assessment offers exceptional service for its assessments, with a dedicated account manager and product specialist available 24/7 to assist with any technical issues. This guarantees a smooth and hassle-free experience while utilizing the platform to find the ideal candidate for your team.
+To know more about how HackerEarth Assessment helped organizations in hiring effectively, click here.
+What are the advantages of using HackerEarth Assessment?
+There are various advantages of using HackerEarth assessments which are as follows:
+Enables remote recruitment drives across multiple locations for seamless scaling
+Reduces manual effort and time to conduct technical assessments by automating the recruitment process
+Creates customized tests in minutes
+Assesses candidates in 38 different programming languages
+Generates tests automatically from a well-curated library of questions specially designed to test technical candidates
+Evaluates tests automatically to shortlist the best candidates
+Provides best-in-class proctoring mechanisms to ensure fair assessments
+Evaluate a candidate's programming, problem-solving, and analytical skills and provide a detailed report on their performance to make informed hiring decisions
+Screens the best candidates using the auto-ranking mechanism and performance-based filters
+Provides reliable customer service to handle unforeseen technical challenges
