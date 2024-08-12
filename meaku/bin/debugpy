@@ -1,4 +1,4 @@
-#!/Users/divye/Desktop/MeakuChatBot/meaku/bin/python
+#!/Users/divye/Desktop/meakuchatbot_project/meaku/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

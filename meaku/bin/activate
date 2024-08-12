@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/divye/Desktop/MeakuChatBot/meaku"
+VIRTUAL_ENV="/Users/divye/Desktop/meakuchatbot_project/meaku"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
